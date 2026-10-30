@@ -1,0 +1,24 @@
+{
+  "name": "Terania GeoPDF Field Navigator",
+  "short_name": "GeoPDF Nav",
+  "description": "Offline-ready Geospatial PDF viewer with real-time GPS tracking and site navigation for Terania field teams.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#005445",
+  "theme_color": "#005445",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./assets/Terania_Icon_Green.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/Terania_Icon_Reversed.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
